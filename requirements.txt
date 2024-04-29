@@ -1,0 +1,13 @@
+streamlit
+pandas
+plotly
+numpy
+matplotlib
+requests
+plotly-express
+collection
+openpyxl
+matplotlib-inline
+ipython
+openpyxl
+XlsxWriter
